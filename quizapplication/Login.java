@@ -7,7 +7,7 @@ package quizapplication;
 import java.sql.*;
 /**
  *
- * @author Don Liyanage
+ * @author Amit Singh
  */
 public class Login extends javax.swing.JFrame {
     public String username;
