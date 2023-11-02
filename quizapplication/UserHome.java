@@ -7,7 +7,7 @@ package quizapplication;
 
 /**
  *
- * @author helitha
+ * @author Amit Singh
  */
 import java.sql.*;
 public class UserHome extends javax.swing.JFrame {
