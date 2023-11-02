@@ -5,10 +5,7 @@
  */
 package quizapplication;
 
-/**
- *
- * @author Don Liyanage
- */
+
 public class MarkWindow extends javax.swing.JFrame {
 
     public int YourMark;
