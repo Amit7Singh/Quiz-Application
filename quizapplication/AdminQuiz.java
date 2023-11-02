@@ -5,10 +5,7 @@
  */
 package quizapplication;
 
-/**
- *
- * @author helitha
- */
+
 public class AdminQuiz extends javax.swing.JFrame {
     private String question;
     private String answer1;
